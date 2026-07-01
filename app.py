@@ -1,6 +1,6 @@
 """
 app.py
-VRE Options Pro — aplicativo principal.
+Options Trading Desk — aplicativo principal.
 
 Estrutura de abas:
   📊 Performance     — análise real das operações concretizadas (win rate,
