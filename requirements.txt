@@ -1,0 +1,12 @@
+streamlit>=1.32
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+gspread>=6.0
+google-auth>=2.28
+plotly>=5.20
+
+# Opcional — só funciona em Windows, com o terminal MT5 instalado e logado.
+# Comente/remova esta linha se for rodar em Linux/Mac ou em deploy na nuvem.
+MetaTrader5>=5.0.45; sys_platform == "win32"
