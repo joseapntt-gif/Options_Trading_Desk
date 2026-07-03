@@ -28,7 +28,6 @@ from charts import plot_payoff, tradingview_widget, plot_curva_capital, plot_con
 from quant_engine import analisar_ponto_trava
 from scanner_engine import escanear_ativos_mesa
 from scanner_options import buscar_puts_venda
-import mt5_provider
 import cotahist_provider
 from performance_engine import calcular_metricas_gerais, calcular_concentracao_por_ativo, analisar_ciclos_rolagem, curva_de_capital
 from risk_engine import validar_nova_entrada, LIMITE_PCT_POR_ATIVO
